@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @gautam-menon-on-github
-- 👀 I’m interested in basically learning and improving my programming skills as a student
+- 👀 I’m interested in learning and improving my programming skills.
+
+Web development and machine learning :)
 
 Working towards getting better at coding, one keystroke at a time!
 <!---
